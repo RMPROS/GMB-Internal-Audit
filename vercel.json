@@ -1,6 +1,6 @@
 {
   "functions": {
-    "app/api/audit/route.js": {
+    "app/api/audit-internal/route.js": {
       "maxDuration": 90
     }
   }
