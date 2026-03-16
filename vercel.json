@@ -1,6 +1,6 @@
 {
   "functions": {
-    "pages/api/audit-internal/index.js": {
+    "pages/api/**/*": {
       "maxDuration": 90
     }
   }
