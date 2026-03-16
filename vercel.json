@@ -1,1 +1,7 @@
-{}
+{
+  "functions": {
+    "pages/api/audit-internal/index.js": {
+      "maxDuration": 90
+    }
+  }
+}

@@ -1,8 +1,7 @@
 import { runAudit } from '../../../lib/audit.js';
 
 export const config = {
-  api: { bodyParser: true },
-  maxDuration: 90,
+  api: { bodyParser: true, responseLimit: false },
 };
 
 export default async function handler(req, res) {
